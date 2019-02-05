@@ -1,4 +1,3 @@
-// Add Comment...
 class TicTacToe {
   constructor() {
     this.playerOne = true;
